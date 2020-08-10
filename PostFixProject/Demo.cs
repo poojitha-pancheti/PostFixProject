@@ -69,6 +69,7 @@ namespace PostFixProject
                 default:
                     return 0;
 
+
             }
 
         }
